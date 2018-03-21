@@ -8,8 +8,3 @@ check the detail in [blog](https://laewoong.github.io/android-gooey-effect/)
 ## Demo
 
 Check the video in [youtube](https://youtu.be/jcDgF22p3kw)
-
-
-### License
-
-GNU General Public License v3.0
